@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScryCipher</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_decks">Decks</string>
+    <string name="ic_white"></string>
+    <string name="ic_blue"></string>
+    <string name="ic_black"></string>
+    <string name="ic_green"></string>
+    <string name="ic_red"></string>
+</resources>
